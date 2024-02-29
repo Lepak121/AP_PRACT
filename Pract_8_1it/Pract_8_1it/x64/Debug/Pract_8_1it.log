@@ -1,0 +1,4 @@
+﻿  Pract_8_1it.cpp
+C:\Users\rezer\Desktop\code\Pract_8_1it\Pract_8_1it\Pract_8_1it.cpp(8,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rezer\Desktop\code\Pract_8_1it\Pract_8_1it\Pract_8_1it.cpp(18,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Pract_8_1it.vcxproj -> C:\Users\rezer\Desktop\code\Pract_8_1it\x64\Debug\Pract_8_1it.exe
