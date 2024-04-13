@@ -1,0 +1,3 @@
+chocolate atb 40 20 kt
+apelcin silpo 100 20 kg
+mandarin atb 20 30 kg
