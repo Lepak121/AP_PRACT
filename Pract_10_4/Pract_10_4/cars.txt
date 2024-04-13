@@ -1,0 +1,5 @@
+tesla:
+    x - 2000
+    y - 4000
+Max price: 4000
+
