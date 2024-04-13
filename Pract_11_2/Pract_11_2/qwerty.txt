@@ -1,0 +1,4 @@
+Ivanov 3 0 4 5 90
+Petrov 2 1 5 5 85
+Sidorov 4 2 3 4 75
+Kuznetsov 1 3 5 5 80
