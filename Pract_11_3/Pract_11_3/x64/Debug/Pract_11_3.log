@@ -1,0 +1,9 @@
+﻿  Pract_11_3.cpp
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(109,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(129,25): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(129,25): warning C4267:         with
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(129,25): warning C4267:         [
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(129,25): warning C4267:             _Ty=int
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(129,25): warning C4267:         ]
+C:\Users\rezer\Desktop\code\Pract_11_3\Pract_11_3\Pract_11_3.cpp(142,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Pract_11_3.vcxproj -> C:\Users\rezer\Desktop\code\Pract_11_3\x64\Debug\Pract_11_3.exe

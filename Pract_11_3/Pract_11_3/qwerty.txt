@@ -1,0 +1,4 @@
+No. | Last Name | Course | Specialty | Physics | Math | Other Grade | Average Grade
+1 | qq | 2 | Computer Science | 5 | 5 | 4 | 4.66667
+2 | ww | 3 | Informatics | 5 | 4 | 4 | 4.33333
+1 | rr | 2 | Computer Science | 5 | 5 | 4 | 4.66667
