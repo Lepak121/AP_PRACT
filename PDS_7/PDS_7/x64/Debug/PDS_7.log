@@ -1,0 +1,4 @@
+﻿  PDS_7.cpp
+C:\Users\rezer\Desktop\code pds\PDS_7\PDS_7\PDS_7.cpp(42,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rezer\Desktop\code pds\PDS_7\PDS_7\PDS_7.cpp(91,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PDS_7.vcxproj -> C:\Users\rezer\Desktop\code pds\PDS_7\x64\Debug\PDS_7.exe
